@@ -1,0 +1,1092 @@
+DEBUG - 2025-06-10 18:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 18:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:15 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:15 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:15 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 18:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 18:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:18 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:18 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:18 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 18:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:20 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:20 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:20 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 18:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:25 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:25 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:25 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+WARNING - 2025-06-10 18:57:25 --> Destination ID is empty for getCost API.
+DEBUG - 2025-06-10 18:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:27 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:27 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:27 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+WARNING - 2025-06-10 18:57:27 --> Destination ID is empty for getCost API.
+DEBUG - 2025-06-10 18:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:37 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:37 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:37 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+ERROR - 2025-06-10 18:57:37 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semar&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 18:57:37 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 18:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 18:57:39 --> Cart Class Initialized
+INFO - 2025-06-10 18:57:39 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 18:57:39 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+ERROR - 2025-06-10 18:57:39 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 18:57:39 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:00:19 --> Cart Class Initialized
+INFO - 2025-06-10 19:00:19 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:00:19 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:00:23 --> Cart Class Initialized
+INFO - 2025-06-10 19:00:23 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:00:23 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:00:26 --> Cart Class Initialized
+INFO - 2025-06-10 19:00:26 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:00:26 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:00:28 --> Cart Class Initialized
+INFO - 2025-06-10 19:00:28 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:00:28 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-10 19:00:33 --> ErrorException: Undefined variable $message
+[Method: GET, Route: produk]
+in APPPATH\Views\v_produk.php on line 56.
+ 1 APPPATH\Views\v_produk.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Controllers\ProdukController.php(22): view('v_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-10 19:00:38 --> ErrorException: Undefined variable $message
+[Method: GET, Route: produk]
+in APPPATH\Views\v_produk.php on line 56.
+ 1 APPPATH\Views\v_produk.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Controllers\ProdukController.php(22): view('v_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-10 19:01:39 --> ErrorException: Undefined variable $message
+[Method: GET, Route: produk]
+in APPPATH\Views\v_produk.php on line 56.
+ 1 APPPATH\Views\v_produk.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Controllers\ProdukController.php(22): view('v_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:02:28 --> Cart Class Initialized
+INFO - 2025-06-10 19:02:28 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:02:28 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-10 19:02:57 --> ErrorException: Undefined variable $message
+[Method: GET, Route: produk]
+in APPPATH\Views\v_produk.php on line 56.
+ 1 APPPATH\Views\v_produk.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $message', 'C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php', 56)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\ficky-ci\\app\\Views\\v_produk.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produk', [], true)
+ 5 APPPATH\Controllers\ProdukController.php(22): view('v_produk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:02 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:02 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:02 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:02 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:31 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:31 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:31 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:31 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:33 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:33 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:33 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:33 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:34 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:34 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:34 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:34 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:35 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:35 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:35 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:35 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:36 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:36 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:36 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:36 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:06:37 --> Cart Class Initialized
+INFO - 2025-06-10 19:06:37 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:06:37 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:06:37 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:07:18 --> Cart Class Initialized
+INFO - 2025-06-10 19:07:18 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:07:18 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:07:18 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: GET, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:07:23 --> Cart Class Initialized
+INFO - 2025-06-10 19:07:23 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:07:23 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:07:23 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: POST, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:10:22 --> Cart Class Initialized
+INFO - 2025-06-10 19:10:22 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:10:22 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:10:22 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory
+[Method: POST, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(30): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:11:13 --> Cart Class Initialized
+INFO - 2025-06-10 19:11:13 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:11:13 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:11:13 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionDetailModel.php): Failed to open stream: No such file or directory
+[Method: POST, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionDetailModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionDetailModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(31): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionDetailModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:12:08 --> Cart Class Initialized
+INFO - 2025-06-10 19:12:08 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:12:08 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+CRITICAL - 2025-06-10 19:12:08 --> ErrorException: include(C:\xampp\htdocs\ficky-ci\vendor\composer/../../app/Models/TransactionDetailModel.php): Failed to open stream: No such file or directory
+[Method: POST, Route: keranjang]
+in VENDORPATH\composer\ClassLoader.php on line 576.
+ 1 VENDORPATH\composer\ClassLoader.php(576): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionDetailModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer\\ClassLoader.php', 576)
+ 2 VENDORPATH\composer\ClassLoader.php(576): include()
+ 3 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('C:\\xampp\\htdocs\\ficky-ci\\vendor\\composer/../../app/Models/TransactionDetailModel.php')
+ 4 APPPATH\Controllers\TransaksiController.php(31): Composer\Autoload\ClassLoader->loadClass('App\\Models\\TransactionDetailModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ficky-ci\\public\\index.php')
+DEBUG - 2025-06-10 19:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:14 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:14 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:14 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:20 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:20 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:20 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:22 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:22 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:22 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:29 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:29 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:29 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:29 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:29 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:29 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:35 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:35 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:35 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:35 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:35 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:35 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:49 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:49 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:49 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:51 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:51 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:51 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:13:53 --> Cart Class Initialized
+INFO - 2025-06-10 19:13:53 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:13:53 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:15:43 --> Cart Class Initialized
+INFO - 2025-06-10 19:15:43 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:15:43 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:15:45 --> Cart Class Initialized
+INFO - 2025-06-10 19:15:45 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:15:45 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:17:11 --> Cart Class Initialized
+INFO - 2025-06-10 19:17:11 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:17:11 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:24:39 --> Cart Class Initialized
+INFO - 2025-06-10 19:24:39 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:24:39 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:24:48 --> Cart Class Initialized
+INFO - 2025-06-10 19:24:48 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:24:48 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:24:51 --> Cart Class Initialized
+INFO - 2025-06-10 19:24:51 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:24:51 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:24:53 --> Cart Class Initialized
+INFO - 2025-06-10 19:24:53 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:24:53 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:25:02 --> Cart Class Initialized
+INFO - 2025-06-10 19:25:03 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:25:03 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:26:57 --> Cart Class Initialized
+INFO - 2025-06-10 19:26:57 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:26:57 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:28:00 --> Cart Class Initialized
+INFO - 2025-06-10 19:28:00 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:28:00 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:28:54 --> Cart Class Initialized
+INFO - 2025-06-10 19:28:54 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:28:54 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:29:18 --> Cart Class Initialized
+INFO - 2025-06-10 19:29:18 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:29:18 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:30:01 --> Cart Class Initialized
+INFO - 2025-06-10 19:30:01 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:30:01 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:30:29 --> Cart Class Initialized
+INFO - 2025-06-10 19:30:29 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:30:29 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:32:00 --> Cart Class Initialized
+INFO - 2025-06-10 19:32:00 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:32:00 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:33:04 --> Cart Class Initialized
+INFO - 2025-06-10 19:33:04 --> RajaOngkir API Key from : Terbaca
+INFO - 2025-06-10 19:33:04 --> RajaOngkir API Key Value: IiCZP7N26c2650e321c1f3ddUGMfXzxE
+DEBUG - 2025-06-10 19:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:36:56 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:38:48 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:39:23 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:43:43 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 19:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:43:59 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:44:01 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:45:00 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:45:26 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:47:51 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:48:48 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:50:16 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:50:26 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:52:58 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:54:44 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:54:58 --> Cart Class Initialized
+ERROR - 2025-06-10 19:54:59 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:54:59 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:54:59 --> Cart Class Initialized
+ERROR - 2025-06-10 19:55:14 --> General Exception in getLocation: cURL error 52: Empty reply from server (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50
+DEBUG - 2025-06-10 19:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:55:14 --> Cart Class Initialized
+ERROR - 2025-06-10 19:55:19 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:55:19 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:55:19 --> Cart Class Initialized
+ERROR - 2025-06-10 19:55:19 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:55:19 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:10 --> Cart Class Initialized
+DEBUG - 2025-06-10 19:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:19 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:19 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:19 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:20 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:20 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semar&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:20 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:20 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:21 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:21 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:21 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:21 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:21 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:21 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:44 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:44 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:44 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:44 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:45 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:45 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:45 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:45 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:45 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:45 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:46 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:46 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 19:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 19:58:46 --> Cart Class Initialized
+ERROR - 2025-06-10 19:58:46 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 19:58:46 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:03 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:12 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:12 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:12 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:12 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:12 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:12 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:12 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:13 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:13 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:13 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:13 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:13 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:34 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:41 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:42 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:42 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:42 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:42 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:42 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:01:42 --> Cart Class Initialized
+ERROR - 2025-06-10 20:01:43 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:01:43 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:02:47 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:02:54 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:02:57 --> Cart Class Initialized
+ERROR - 2025-06-10 20:02:57 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:02:57 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:02:58 --> Cart Class Initialized
+ERROR - 2025-06-10 20:02:59 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:02:59 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:02:59 --> Cart Class Initialized
+ERROR - 2025-06-10 20:02:59 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:02:59 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:04:32 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:04:39 --> Cart Class Initialized
+ERROR - 2025-06-10 20:04:40 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:04:40 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:04:40 --> Cart Class Initialized
+ERROR - 2025-06-10 20:04:41 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:04:41 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:04:41 --> Cart Class Initialized
+ERROR - 2025-06-10 20:04:41 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:04:41 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:04:41 --> Cart Class Initialized
+ERROR - 2025-06-10 20:04:42 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:04:42 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:05:03 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:06:27 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:06:33 --> Cart Class Initialized
+ERROR - 2025-06-10 20:06:33 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:06:33 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:06:33 --> Cart Class Initialized
+ERROR - 2025-06-10 20:06:33 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:06:33 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:06:34 --> Cart Class Initialized
+ERROR - 2025-06-10 20:06:34 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:06:34 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:06:34 --> Cart Class Initialized
+ERROR - 2025-06-10 20:06:34 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:06:34 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:22 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:29 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:34 --> Cart Class Initialized
+ERROR - 2025-06-10 20:07:34 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:07:34 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:34 --> Cart Class Initialized
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:35 --> Cart Class Initialized
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:35 --> Cart Class Initialized
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:07:35 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:07:35 --> Cart Class Initialized
+ERROR - 2025-06-10 20:07:36 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:07:36 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:09:41 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:09:57 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:10:00 --> Cart Class Initialized
+ERROR - 2025-06-10 20:10:00 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:10:00 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:10:01 --> Cart Class Initialized
+ERROR - 2025-06-10 20:10:01 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:10:01 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:10:01 --> Cart Class Initialized
+ERROR - 2025-06-10 20:10:01 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:10:01 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:10:01 --> Cart Class Initialized
+ERROR - 2025-06-10 20:10:02 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:10:02 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:11:12 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:11:15 --> Cart Class Initialized
+ERROR - 2025-06-10 20:11:15 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:11:15 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:11:16 --> Cart Class Initialized
+ERROR - 2025-06-10 20:11:16 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:11:16 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:11:16 --> Cart Class Initialized
+ERROR - 2025-06-10 20:11:16 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:11:16 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:11:31 --> Cart Class Initialized
+ERROR - 2025-06-10 20:11:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:11:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:12:36 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:12:39 --> Cart Class Initialized
+ERROR - 2025-06-10 20:12:39 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:12:39 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:12:39 --> Cart Class Initialized
+ERROR - 2025-06-10 20:12:39 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:12:39 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:12:40 --> Cart Class Initialized
+ERROR - 2025-06-10 20:12:40 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:12:40 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:14:19 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:15:47 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:15:52 --> Cart Class Initialized
+ERROR - 2025-06-10 20:15:52 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:15:52 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:15:52 --> Cart Class Initialized
+ERROR - 2025-06-10 20:15:53 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:15:53 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:15:53 --> Cart Class Initialized
+ERROR - 2025-06-10 20:15:53 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:15:53 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:16:48 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:16:55 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:16:59 --> Cart Class Initialized
+ERROR - 2025-06-10 20:16:59 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:16:59 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:16:59 --> Cart Class Initialized
+ERROR - 2025-06-10 20:16:59 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:16:59 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:16:59 --> Cart Class Initialized
+ERROR - 2025-06-10 20:17:00 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:17:00 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:17:00 --> Cart Class Initialized
+ERROR - 2025-06-10 20:17:00 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:17:00 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:17:58 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:18:08 --> Cart Class Initialized
+ERROR - 2025-06-10 20:18:08 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:18:08 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:18:08 --> Cart Class Initialized
+ERROR - 2025-06-10 20:18:08 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:18:08 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:18:08 --> Cart Class Initialized
+ERROR - 2025-06-10 20:18:09 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:18:09 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:18:09 --> Cart Class Initialized
+ERROR - 2025-06-10 20:18:09 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:18:09 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:03 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:08 --> Cart Class Initialized
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:09 --> Cart Class Initialized
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:09 --> Cart Class Initialized
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:21:09 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:09 --> Cart Class Initialized
+ERROR - 2025-06-10 20:21:10 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:21:10 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:21:10 --> Cart Class Initialized
+ERROR - 2025-06-10 20:21:10 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:21:10 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:22:04 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:09 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:16 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:21 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:21 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:21 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:21 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:22 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:22 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:22 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:22 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semar&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:22 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:22 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:23 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:39:23 --> Cart Class Initialized
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:39:23 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:43:13 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:43:19 --> Cart Class Initialized
+ERROR - 2025-06-10 20:43:20 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:43:20 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:43:20 --> Cart Class Initialized
+ERROR - 2025-06-10 20:43:20 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:43:20 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:43:21 --> Cart Class Initialized
+ERROR - 2025-06-10 20:43:21 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:43:21 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:43:21 --> Cart Class Initialized
+ERROR - 2025-06-10 20:43:22 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:43:22 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:16 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:17 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:53 --> Cart Class Initialized
+ERROR - 2025-06-10 20:46:54 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sem&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:46:54 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:54 --> Cart Class Initialized
+ERROR - 2025-06-10 20:46:54 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:46:54 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:55 --> Cart Class Initialized
+ERROR - 2025-06-10 20:46:55 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:46:55 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:55 --> Cart Class Initialized
+ERROR - 2025-06-10 20:46:55 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:46:55 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:46:55 --> Cart Class Initialized
+ERROR - 2025-06-10 20:46:56 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:46:56 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:48:26 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:48:30 --> Cart Class Initialized
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:48:31 --> Cart Class Initialized
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:48:31 --> Cart Class Initialized
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:48:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:48:32 --> Cart Class Initialized
+ERROR - 2025-06-10 20:48:32 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:48:32 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-10 20:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:58:23 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:58:25 --> Cart Class Initialized
+DEBUG - 2025-06-10 20:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:58:29 --> Cart Class Initialized
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:58:30 --> Cart Class Initialized
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 20:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 20:58:30 --> Cart Class Initialized
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 20:58:30 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 21:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 21:01:17 --> Cart Class Initialized
+DEBUG - 2025-06-10 21:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 21:01:30 --> Cart Class Initialized
+ERROR - 2025-06-10 21:01:30 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=sema&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 21:01:30 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 21:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 21:01:30 --> Cart Class Initialized
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semara&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 21:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 21:01:31 --> Cart Class Initialized
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semaran&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+DEBUG - 2025-06-10 21:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-10 21:01:31 --> Cart Class Initialized
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception in getLocation: Client error: `GET https://rajaongkir.komerce.id/api/v1/destination/domestic-destination?search=semarang&limit=50` resulted in a `429 Too Many Requests` response:
+{"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
+
+ERROR - 2025-06-10 21:01:31 --> Guzzle Request Exception Response Body in getLocation: {"meta":{"message":"Daily limit exceeded","code":429,"status":"error"},"data":null}
